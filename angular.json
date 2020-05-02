@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Frontend-simulated-annealing"
+    }
+  },
+  "defaultProject": "Frontend-simulated-annealing",
+  "cli": {
+    "analytics": "bb39e290-f3f6-4e4d-b8db-df97c5ac6517"
+  }
 }
